@@ -5,6 +5,9 @@ import store from './store'
 //引入移动端
 import 'lib-flexible/flexible' // 移动端适配文件
 
+//引入dayjs
+import '@/utils/dayjs'
+
 //引入vant样式
 import {
     NavBar,
